@@ -1,4 +1,8 @@
 # MaziSentry: Comprehensive Network Monitoring and Security
+
+![image](https://github.com/mgalde/MaziSentry/assets/30883926/7f3037da-b79c-4cfb-bdce-7fa0ca4e5031)
+
+
 ## Overview:
 MaziSentry is a cutting-edge cybersecurity solution designed to monitor, analyze, and secure network activity across diverse platforms. Tailored for both Windows and Linux systems, MaziSentry offers an unparalleled combination of real-time network visualization and proactive firewall management, ensuring robust protection against a myriad of cyber threats.
 
