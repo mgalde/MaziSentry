@@ -1,6 +1,6 @@
 # MaziSentry: Comprehensive Network Monitoring and Security
 
-![image](https://github.com/mgalde/MaziSentry/assets/30883926/7f3037da-b79c-4cfb-bdce-7fa0ca4e5031)
+<center>![image](https://github.com/mgalde/MaziSentry/assets/30883926/7f3037da-b79c-4cfb-bdce-7fa0ca4e5031)</center>center>
 
 
 ## Overview:
